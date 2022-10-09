@@ -1,0 +1,10 @@
+winlogon.exe, variant 1
+
+Product:     Microsoft® Windows® Operating System
+Description: Service that offers IPv6 connectivity over an IPv4 network.
+Language:    English
+Version:     5.1.2600.5935.xpsp_sp3_gdr.100211-1404
+Size:        100,864
+SHA256:      d128f5bd8f93628db3ee0eeada752194dfa0eaa8f20b787c94525a9ad05f6aeb
+
+Source:      https://www.virustotal.com/gui/file/d128f5bd8f93628db3ee0eeada752194dfa0eaa8f20b787c94525a9ad05f6aeb/
